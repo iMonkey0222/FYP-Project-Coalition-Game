@@ -1,5 +1,5 @@
 # FYP-Project-Coalition-Game
-This is undergraduate's Final Year Project. 
+This is an undergraduate Final Year Project. 
 * Format:
   * Develop an iPad application
 * Target:
